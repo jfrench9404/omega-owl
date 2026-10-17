@@ -8,3 +8,4 @@ Physical AI owl project. Concept stage: no hardware or code yet.
 ## Status
 
 - Concept stage. The first design questions will land in `docs/` through a pull request.
+- Owner questionnaire: [docs/questions.md](docs/questions.md)
